@@ -1,0 +1,1 @@
+- `results/` — Generated figures, tables, evaluation metrics, and model outputs.
