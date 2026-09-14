@@ -1,1 +1,1 @@
-- `data/` — Input and processed data used by the project.
+- `data/` - Input and processed data used by the project.
